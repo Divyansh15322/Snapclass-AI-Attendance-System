@@ -6,7 +6,11 @@
 __pycache__/
 
 venv/
+.venv/
+uv-cache/
+.uv-cache/
 venv_py313/
 .streamlit/
+streamlit-*.log
 
 dist/
